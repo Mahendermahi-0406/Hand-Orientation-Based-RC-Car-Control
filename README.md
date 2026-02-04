@@ -2,12 +2,7 @@
 This project showcases a hand gesture-controlled RC car using Arduino, MPU6050, and RF communication modules. The car responds to the tilt and orientation of the user's hand to move in different directions, providing a hands-free control experience.
 <img width="998" height="659" alt="image" src="https://github.com/user-attachments/assets/da4db020-589c-4dfc-b4cb-6aac932f0692" />
 
-🚗 Project Overview
-Input Device: MPU6050 (Accelerometer + Gyroscope)
-Wireless Transmission: 434 MHz RF Transmitter & Receiver
-Microcontrollers: 2x Arduino UNO
-Actuators: 2x BO DC Motors driven by L293D Motor Driver
-Power: 9V Battery (prototype) and 12V 4-cell battery (planned)
+https://github.com/deveshio/Hand-Orientation-Based-RC---car-control/blob/master/ReadMe.md#-project-overview
 
 🧰 Components Used
 Component	Quantity	Purpose
