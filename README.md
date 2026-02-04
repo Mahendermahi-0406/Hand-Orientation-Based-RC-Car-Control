@@ -54,7 +54,8 @@ This project showcases a hand gesture-controlled RC car using Arduino, MPU6050, 
  * 3D design for laser fabrication
  * Full hardware-software integration
 
-** 📸 Preview **
+
+**📸 Preview**
  <img width="1275" height="839" alt="image" src="https://github.com/user-attachments/assets/215a280d-d08c-4d95-a16b-1af28ba22bb6" />
 
 **📎 References**
