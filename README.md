@@ -46,8 +46,9 @@ This project showcases a hand gesture-controlled RC car using Arduino, MPU6050, 
 * A custom 3D model of the RC car was designed for laser cutting.
 * The chassis was cut using acrylic sheets with slots for motors, Arduino, and sensors.
 
-**🧠 Learning Outcomes **
 
+**🧠 Learning Outcomes**
+  
  * MPU6050 interfacing and signal processing
  * RF communication implementation
  * Motor driver integration with Arduino
