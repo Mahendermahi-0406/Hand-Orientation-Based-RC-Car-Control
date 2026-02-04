@@ -23,7 +23,7 @@ This project showcases a hand gesture-controlled RC car using Arduino, MPU6050, 
 | **9V Battery** | 1 | Used for hand module |
 | **Wires, Breadboard, Chassis** | Various | Connections and structure |
 
-**🛠️ Circuit & Electronics (Simulation)**
+**📡 Communication Protocol**
 
 * Data from MPU6050 is processed on the transmitter Arduino.
 * Specific gyroscopic values are converted into control signals.
