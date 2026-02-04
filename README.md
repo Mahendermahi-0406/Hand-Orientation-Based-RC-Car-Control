@@ -31,7 +31,9 @@ This project showcases a hand gesture-controlled RC car using Arduino, MPU6050, 
 * Receiver Arduino interprets signals and drives motors accordingly.
 
  **🛠️ Circuit & Electronics (Simulation) **
+ 
  Due to TinkerCAD limitations (missing MPU6050 and RF modules), simulation uses:
+ 
  * Flex sensors to mimic gesture input.
  * Serial communication (TX/RX) between two Arduinos instead of RF.
  * 9V battery instead of unavailable 12V supply.
