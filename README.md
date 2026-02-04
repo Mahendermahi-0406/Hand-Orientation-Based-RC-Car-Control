@@ -38,21 +38,23 @@ This project showcases a hand gesture-controlled RC car using Arduino, MPU6050, 
  * Flex sensors to mimic gesture input.
  * Serial communication (TX/RX) between two Arduinos instead of RF.
  * 9V battery instead of unavailable 12V supply.
-   <img width="1537" height="823" alt="image" src="https://github.com/user-attachments/assets/f1a464b4-fdec-4a33-ae2f-158743702162" />
+   
+<img width="1537" height="823" alt="image" src="https://github.com/user-attachments/assets/f1a464b4-fdec-4a33-ae2f-158743702162" />
    Note: Real-world setup includes MPU6050 and RF communication, not represented in TinkerCAD.
    
 **🧩 3D Design & Assembly**
 * A custom 3D model of the RC car was designed for laser cutting.
 * The chassis was cut using acrylic sheets with slots for motors, Arduino, and sensors.
 
- **🧠 Learning Outcomes **
+
+**🧠 Learning Outcomes **
  * MPU6050 interfacing and signal processing
  * RF communication implementation
  * Motor driver integration with Arduino
  * 3D design for laser fabrication
  * Full hardware-software integration
 
- ** 📸 Preview **
+** 📸 Preview **
  <img width="1275" height="839" alt="image" src="https://github.com/user-attachments/assets/215a280d-d08c-4d95-a16b-1af28ba22bb6" />
 
 **📎 References**
